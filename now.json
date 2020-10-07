@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://guac.live"
+      "destination": "https://guac.live/?from=strafe"
     },
     {
       "source": "/(.*)",
