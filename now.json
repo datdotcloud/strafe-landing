@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://guac.live"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://guac.live/$1"
+    }
+  ]
+}
